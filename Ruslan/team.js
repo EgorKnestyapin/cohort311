@@ -1,3 +1,2 @@
 // Вывести приветствие в консоль
-console.log("Hello team!");
-
+console.log(Hello);
